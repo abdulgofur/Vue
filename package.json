@@ -1,0 +1,28 @@
+{
+  "name": "projectVue",
+  "version": "1.0.0",
+  "description": "LearnVue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LearnVue"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "browser": {
+    "vue": "vue/dist/vue.common"
+  },
+  "author": "GofurAbdul",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^1.9.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "popper.js": "^1.14.7",
+    "vue": "^2.6.10"
+  }
+}
